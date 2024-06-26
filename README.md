@@ -15,7 +15,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - What are different order status in 2022?
 - List top 10 states contributingto the sales?
 - Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
+- Which Channel is contributing to the maximum  sales?
 - Highest selling category?
 
 
